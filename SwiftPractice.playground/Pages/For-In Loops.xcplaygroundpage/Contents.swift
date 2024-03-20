@@ -3,8 +3,7 @@ import Foundation
 
 /*
 반복문
-while, for(ForEach: SwiftUI), if, guard, switch.
-조건에 따라 데이터를 분기, 반복, early exits
+배열, 범위의 숫자, 문자열과 문자와 같이 연속된 것에 사용해서 반복할 수 있다.
 */
 
 // 배열에서의 반복문 조건 X
